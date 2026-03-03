@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: holi-splash-2026
+    runtime: static
+    buildCommand: "" 
+    staticPublishPath: "."
